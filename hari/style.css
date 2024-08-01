@@ -1,0 +1,79 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.4; /* Reduced line height */
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+.resume {
+  max-width: 700px;
+  margin: 15px auto;
+  background: #fff;
+  padding: 15px;
+  border-radius: 6px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+header {
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 1.8em;
+  line-height: 1.4; 
+}
+
+header p {
+  margin: 5px 0;
+  color: #171616;
+  line-height: 1.4; /* Reduced line height */
+  font-size: 0.9em;
+}
+
+section {
+  margin: 15px 0;
+}
+
+section h2 {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 3px;
+  margin-bottom: 8px;
+  font-size: 1.2em;
+  line-height: 1.5; /* Reduced line height */
+}
+
+.job {
+  margin-bottom: 15px;
+}
+
+.job h3 {
+  margin: 0;
+  font-size: 1.1em;
+  line-height: 1.5; /* Reduced line height */
+}
+
+.job p {
+  margin: 4px 0;
+  font-size: 0.9em;
+  line-height: 1.2; /* Reduced line height */
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 18px;
+  font-size: 0.9em;
+  line-height: 1.4; /* Reduced line height */
+}
+
+a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+  
